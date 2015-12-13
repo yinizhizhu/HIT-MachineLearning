@@ -39,7 +39,7 @@ Bayes Logistic Regression
 .. _result3_3: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment3/image/3.png
 
 .. _Assignment4: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment4
-.. _result4_: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment4/image/1.png
+.. _result4_1: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment4/image/1.png
 
 `参考资料`
 
