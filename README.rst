@@ -40,8 +40,8 @@ Bayes Logistic Regression
 
 .. image:: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment3/image/3.png
         :target: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment3
-
 （来源数据是通过matlab生成）
+
 * Assignment4: 实现主成分分析PCA
 .. image:: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment4/image/1.png
         :target: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment4
