@@ -7,14 +7,8 @@ Bayes Logistic Regression
 +======+===========+
 
 
-.. image:: https://img.shields.io/travis/MaxPoint/bayes_logistic.svg
-        :target: https://travis-ci.org/MaxPoint/bayes_logistic
-
-.. image:: https://img.shields.io/pypi/v/bayes_logistic.svg
-        :target: https://pypi.python.org/pypi/bayes_logistic
-
-.. image:: https://img.shields.io/pypi/pyversions/bayes_logistic.svg
-        :target: https://pypi.python.org/pypi/bayes_logistic
+.. image:: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment1/image/1_1.png
+        :target: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment1
 
 我的机器学习布置的assignment均是用python编写，会用到的一些扩展库：处理数组和矩阵的numpy和scipy，以及作图的matplotlib.pyplot。
 
@@ -48,7 +42,7 @@ Bayes Logistic Regression
 Demo
 ----
 
-`参考资料`_
+`参考资料`
 
 * 工具参考资料：
 .. _numpy: http://nbviewer.ipython.org/github/MaxPoint/bayes_logistic/blob/master/notebooks/bayeslogistic_demo.ipynb
