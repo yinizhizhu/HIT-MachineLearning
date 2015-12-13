@@ -11,15 +11,14 @@ Bayes Logistic Regression
 
 * Assignment1_: 利用梯度下降法去拟合正弦或余弦在一个周期中的图像（要求要至少9次以上），各出的训练数据集分别为10，20，100个点集
 	结果截图： result1_1_1_、result1_1_2_、result1_2_1_、result1_2_2_
-
-(注：我实现的仅仅是三次的拟合，结果还好，但是拟合的时间较长)
+	(注：我实现的仅仅是三次的拟合，结果还好，但是拟合的时间较长)
 
 * Assignment2_: 利用牛顿法实现逻辑斯蒂回归
 	结果截图： result2_1_
 
 * Assignment3_: 实现高斯混合模型编程
 	结果截图： result3_1_、result3_2_、result3_3_
-（来源数据是通过matlab生成）
+	（来源数据是通过matlab生成）
 
 * Assignment4_: 实现主成分分析PCA
 	结果截图： result4_1_
