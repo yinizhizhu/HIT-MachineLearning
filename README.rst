@@ -1,5 +1,5 @@
 =========================
-Bayes Logistic Regression
+Machine Learning--HIT
 =========================
 
 +------+-----------+
