@@ -55,6 +55,9 @@ Demo
 `参考资料`
 
 * 工具参考资料：
+	numpy
+
+	matplotlib
 .. _numpy: http://www.tuicool.com/articles/r2yyei
 
 .. _matplotlib: http://www.2cto.com/kf/201407/317115.html
