@@ -7,7 +7,7 @@ Bayes Logistic Regression
 +======+===========+
 
 
-我的机器学习布置的assignment均是用python编写，会用到的一些扩展库：处理数组和矩阵的numpy和scipy，以及作图的matplotlib.pyplot。
+我的机器学习布置的assignment均是用python编写，会用到的一些扩展库：处理数组和矩阵计算的numpy，以及作图的matplotlib.pyplot。
 
 * Assignment1: 利用梯度下降法去拟合正弦或余弦在一个周期中的图像（要求要至少9次以上），各出的训练数据集分别为10，20，100个点集
 .. image:: https://github.com/yinizhizhu/HIT-MachineLearning/blob/master/assignment1/image/1_1.png
@@ -48,7 +48,6 @@ Bayes Logistic Regression
 
 
 .. |lic| image:: https://img.shields.io/github/license/MaxPoint/bayes_logistic.svg
-.. _here: http://www.opendatascience.com/conferences/rob-haslinger-at-bdf-2015-bayes_logistic-a-python-package-for-bayesian-logistic-regression/
 
 Demo
 ----
@@ -56,10 +55,6 @@ Demo
 `参考资料`
 
 * 工具参考资料：
-.. _numpy: http://nbviewer.ipython.org/github/MaxPoint/bayes_logistic/blob/master/notebooks/bayeslogistic_demo.ipynb
+.. _numpy: http://www.tuicool.com/articles/r2yyei
 
-.. _matplotlib: http://nbviewer.ipython.org/github/MaxPoint/bayes_logistic/blob/master/notebooks/bayeslogistic_demo.ipynb
-
-.. _scipy: http://
-
-* 实验参考资料：
+.. _matplotlib: http://www.2cto.com/kf/201407/317115.html
