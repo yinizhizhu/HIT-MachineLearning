@@ -6,8 +6,9 @@ Machine Learning--HIT
 |asdasd|asdasdasd  |
 +======+===========+
 
+* 哈尔滨工业大学计算机科学与技术、机器学习
 
-我的机器学习布置的assignment均是用python编写，会用到的一些扩展库：处理数组和矩阵计算的numpy，以及作图的matplotlib.pyplot。
+机器学习布置的assignment均是用python编写实现，会用到的一些扩展库：处理数组和矩阵计算的numpy，以及作图的matplotlib.pyplot。
 
 * Assignment1_: 利用梯度下降法去拟合正弦或余弦在一个周期中的图像（要求要至少9次以上），各出的训练数据集分别为10，20，100个点集
 	结果截图： result1_1_1_、result1_1_2_、result1_2_1_、result1_2_2_
